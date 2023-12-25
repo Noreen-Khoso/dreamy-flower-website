@@ -20,7 +20,7 @@ const About = () => {
                         Your satisfaction is our priority, making every service with us an unforgettable journey. Embrace the extraordinary <br/>
                         where your desires meet our commitment to excellence."
                         </p>
-                        <CgLastpass size={30}/>
+                       
                     </div>
 
                 </div>
